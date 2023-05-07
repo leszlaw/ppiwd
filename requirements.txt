@@ -1,0 +1,8 @@
+tensorflow==2.7.0
+keras==2.7.0
+jupyter==1.0.0
+numpy==1.19.5
+protobuf==3.20
+matplotlib==3.6.3
+pandas==1.4.4
+scikit-learn==1.2.2
